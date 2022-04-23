@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <details>
     <summary>Emmmm...<b></b></summary><br/>
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/3f8b2987e6b010c467dd6.png?r=82s" width="150" alt="Hayuk"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 ![fisabiliyusri's card name](https://cardivo.vercel.app/api?name=fisabiliyusri%20Indonesia&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/fisabiliyusri/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=tidakada&github=fisabiliyusri&pattern=leaf&colorPattern=%23eaeaea)
 
