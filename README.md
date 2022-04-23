@@ -47,14 +47,17 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>  I'm L ! :sunglasses: </p>
 <img width="800px" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
+
 </p>
-![fisabiliyusri](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fisabiliyusri&theme=monokai)
+
+![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fisabiliyusri&theme=monokai)
 
 </p>
 </details>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fisabiliyusri&label=VIEWS&style=flat-square&color=blue" />
-</p>
+</details>
+
 <p align='center'>
    <a href="https://www.facebook.com/sulaiman.xl"><img height="100" src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/speed.svg"></a></p>
 <p align='center'>
