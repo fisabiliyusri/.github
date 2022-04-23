@@ -9,6 +9,9 @@
 <p align="center">
 <img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
+</p>
 <div height='45' align="center">
 <h2>Donate me via trakteer: <br>
 <a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
